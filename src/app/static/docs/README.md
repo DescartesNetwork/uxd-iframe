@@ -1,3 +1,3 @@
-# My App
+# UXD
 
-A sample project for Sentre developers
+UXD is a decentralized stablecoin, backed 100% by delta neutral position.
